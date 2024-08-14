@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|c:\\users\\1212-13\\source\\repos\\stokovaborsa\\stokovaborsa\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|solutionrelative:stokovaborsa\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|c:\\users\\1212-13\\source\\repos\\stokovaborsa\\stokovaborsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|solutionrelative:stokovaborsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|c:\\users\\1212-13\\source\\repos\\stokovaborsa\\stokovaborsa\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|solutionrelative:stokovaborsa\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StokovaBorsa/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|c:\\users\\1212-13\\source\\repos\\stokovaborsa\\stokovaborsa\\controllers\\typeproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|solutionrelative:stokovaborsa\\controllers\\typeproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|c:\\users\\1212-13\\source\\repos\\stokovaborsa\\stokovaborsa\\data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|solutionrelative:stokovaborsa\\data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|c:\\users\\1212-13\\source\\repos\\stokovaborsa\\stokovaborsa\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|solutionrelative:stokovaborsa\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|c:\\users\\1212-13\\source\\repos\\stokovaborsa\\stokovaborsa\\data\\typeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|solutionrelative:stokovaborsa\\data\\typeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|c:\\users\\1212-13\\source\\repos\\stokovaborsa\\stokovaborsa\\views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|solutionrelative:stokovaborsa\\views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|c:\\users\\1212-13\\source\\repos\\stokovaborsa\\stokovaborsa\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5939ED1-7E97-4C27-8D26-73B1A9D7CEB2}|StokovaBorsa\\StokovaBorsa.csproj|solutionrelative:stokovaborsa\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StokovaBorsa/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-14T08:14:24.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "StokovaBorsa\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "StokovaBorsa\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAEwBEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T08:12:00.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Program.cs",
+              "RelativeDocumentMoniker": "StokovaBorsa\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Program.cs",
+              "RelativeToolTip": "StokovaBorsa\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:07:15.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "StokovaBorsa\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "StokovaBorsa\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAkwHIAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:05:26.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "StokovaBorsa\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "StokovaBorsa\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAqwH0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:20:45.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "StokovaBorsa\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "StokovaBorsa\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwF4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:57:37.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TypeProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Controllers\\TypeProductsController.cs",
+              "RelativeDocumentMoniker": "StokovaBorsa\\Controllers\\TypeProductsController.cs",
+              "ToolTip": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Controllers\\TypeProductsController.cs",
+              "RelativeToolTip": "StokovaBorsa\\Controllers\\TypeProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:09:55.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Data\\Item.cs",
+              "RelativeDocumentMoniker": "StokovaBorsa\\Data\\Item.cs",
+              "ToolTip": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Data\\Item.cs",
+              "RelativeToolTip": "StokovaBorsa\\Data\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:55:29.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Views\\Items\\Details.cshtml",
+              "RelativeDocumentMoniker": "StokovaBorsa\\Views\\Items\\Details.cshtml",
+              "ToolTip": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Views\\Items\\Details.cshtml",
+              "RelativeToolTip": "StokovaBorsa\\Views\\Items\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T07:03:22.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TypeProduct.cs",
+              "DocumentMoniker": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Data\\TypeProduct.cs",
+              "RelativeDocumentMoniker": "StokovaBorsa\\Data\\TypeProduct.cs",
+              "ToolTip": "C:\\Users\\1212-13\\source\\repos\\StokovaBorsa\\StokovaBorsa\\Data\\TypeProduct.cs",
+              "RelativeToolTip": "StokovaBorsa\\Data\\TypeProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:07:52.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
